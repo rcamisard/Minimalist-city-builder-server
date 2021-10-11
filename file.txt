@@ -1,0 +1,224 @@
+[['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores' 'Fores'
+  'Fores' 'Fores' 'Fores' 'Fores' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']
+ ['Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain' 'Plain'
+  'Plain' 'Plain' 'Plain' 'Plain' 'Plain']]
