@@ -3,7 +3,8 @@ from flask import Flask, request, jsonify
 import numpy as np
 import random
 import matplotlib.pyplot as plt
-
+import sys
+np.set_printoptions(threshold=sys.maxsize)
 app = Flask(__name__)
 
 CST_PLAIN = 0
@@ -11,7 +12,7 @@ CST_FOREST = 1
 CST_MOUNTAIN = 2
 CST_LAKE = 3
 CST_BEACH = 4
-
+CST_TEMPORARY_BEACH = 5
 
 @app.get("/generate")
 def generateMap():
@@ -117,39 +118,60 @@ def propageTerrainFromCell(map, cell, terrain, baseProba, listCellToProcess):
 
 
 def generateBeaches(map):
-    # On parcourt la carte, pour chaque case d'eau on remplace ses voisins qui ne sont pas le l'eau par une plage
+    #On parcourt la carte, pour chaque case d'eau on remplace ses voisins qui ne sont pas le l'eau par une plage
     for h in range(len(map)):
         for l in range(len(map[0])):
             if map[h][l] == CST_LAKE:
-                map = replaceNeighboursByBeach(map, h, l)
+                map = replaceNeighboursByTemporaryBeach(map, h, l)
+    replaceTemporaryBeach(map)
+
+    #On reparcourt la carte en remplaçant les voisins des cases de sable par du sable
+    for h in range(len(map)):
+        for l in range(len(map[0])):
+            if map[h][l] == CST_BEACH:
+                map = replaceNeighboursByTemporaryBeach(map, h, l)
+    replaceTemporaryBeach(map)
+
+    print(map)
     return map
 
 
-def replaceNeighboursByBeach(map, h, l):
+def replaceNeighboursByTemporaryBeach(map, h, l):
     # Cellule de gauche
     currentCell = [h, l - 1]
-    if (currentCell[1] >= 0 and map[currentCell[0]][currentCell[1]] != CST_LAKE and map[currentCell[0]][
-        currentCell[1]] != CST_BEACH):
-        map[currentCell[0]][currentCell[1]] = CST_BEACH
+
+    #On remplace les plages par une case temporaire afin d'éviter les effets de propagation en chaine
+
+    # Si c'est une cellule à côté d'une cellule d'eau OU que c'est une cellule à côté d'une cellule de sable qui est à côté d'une cellule d'eau
+    if (currentCell[1] >= 0 and map[currentCell[0]][currentCell[1]] != CST_LAKE and map[currentCell[0]][currentCell[1]] != CST_TEMPORARY_BEACH):
+        map[currentCell[0]][currentCell[1]] = CST_TEMPORARY_BEACH
 
     # Cellule de droite
     currentCell = [h, l + 1]
     if (currentCell[1] < len(map[0]) and map[currentCell[0]][currentCell[1]] != CST_LAKE and map[currentCell[0]][
-        currentCell[1]] != CST_BEACH):
-        map[currentCell[0]][currentCell[1]] = CST_BEACH
+        currentCell[1]] != CST_TEMPORARY_BEACH):
+        map[currentCell[0]][currentCell[1]] = CST_TEMPORARY_BEACH
 
     # Cellule du haut
     currentCell = [h - 1, l]
     if (currentCell[0] >= 0 and map[currentCell[0]][currentCell[1]] != CST_LAKE and map[currentCell[0]][
-        currentCell[1]] != CST_BEACH):
-        map[currentCell[0]][currentCell[1]] = CST_BEACH
+        currentCell[1]] != CST_TEMPORARY_BEACH):
+        map[currentCell[0]][currentCell[1]] = CST_TEMPORARY_BEACH
 
     # Cellule du bas
     currentCell = [h + 1, l]
     if (currentCell[0] < len(map) and map[currentCell[0]][currentCell[1]] != CST_LAKE and map[currentCell[0]][
-        currentCell[1]] != CST_BEACH):
-        map[currentCell[0]][currentCell[1]] = CST_BEACH
+        currentCell[1]] != CST_TEMPORARY_BEACH):
+        map[currentCell[0]][currentCell[1]] = CST_TEMPORARY_BEACH
 
+    return map
+
+
+def replaceTemporaryBeach(map):
+    for h in range(len(map)):
+        for l in range(len(map[0])):
+            if map[h][l] == CST_TEMPORARY_BEACH:
+                map[h][l] = CST_BEACH
     return map
 
 
