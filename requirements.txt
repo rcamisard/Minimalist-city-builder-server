@@ -1,6 +1,4 @@
-flask
+Flask==2.0.2
 gunicorn
 numpy==1.21.2
-sys==3.8
-sqlite3==2.3.2
-json==3.6
+
