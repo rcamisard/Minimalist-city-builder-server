@@ -1,6 +1,7 @@
 import numpy as np
 import random
 import sys
+import json
 np.set_printoptions(threshold=sys.maxsize)
 
 CST_PLAIN = 0
@@ -40,7 +41,8 @@ def generateMap():
     # On termine par rajouter les plages
     map = generateBeaches(map)
     map = np.transpose(map)
-    return np.array2string(map)
+    mapList = map.tolist()
+    return json.dumps(mapList)
 
 
 def generatePatch(map, center, terrain):
