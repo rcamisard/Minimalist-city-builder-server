@@ -1,2 +1,7 @@
 flask
 gunicorn
+numpy
+matplotlib.pyplot
+sys
+sqlite3
+json
