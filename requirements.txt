@@ -1,6 +1,6 @@
 flask
 gunicorn
 numpy==1.21.2
-sys
-sqlite3
-json
+sys==3.8
+sqlite3==2.3.2
+json==3.6
