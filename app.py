@@ -1,17 +1,27 @@
 # app.py
 from flask import Flask
 from generateMap import generateMap
+import db
 app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Coucou les zouz</p>"
+    db.createTables(r"./db/sqlite.db")
+    return db.getClassements(r"./db/sqlite.db")
+
 
 @app.route("/generate")
 def generate():
     map = generateMap()
     return map
 
+
+@app.route("/insertClassement", methods=['POST'])
+def insertClassement():
+    username = request.args.get("username")
+    points = request.args.get("points")
+    db.insertClassement(r"./db/sqlite.db", username, points)
+    return 200
 
 if __name__ == '__main__':
     app.run()
