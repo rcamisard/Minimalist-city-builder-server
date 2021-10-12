@@ -40,17 +40,13 @@ def generateMap():
 
     # On termine par rajouter les plages
     map = generateBeaches(map)
-
+    map = np.transpose(map)
     return np.array2string(map)
 
 
 def generatePatch(map, center, terrain):
     # Liste des cellules à traiter pour la propagation
     listCellToProcess = []
-
-    # On génère une taille aléatoire pour le patch de terrain
-    width = random.randint(5, 15)
-    height = random.randint(5, 15)
 
     # On place le centre
     map[center[0]][center[1]] = terrain
@@ -128,7 +124,6 @@ def generateBeaches(map):
                 map = replaceNeighboursByTemporaryBeach(map, h, l)
     replaceTemporaryBeach(map)
 
-    print(map)
     return map
 
 
