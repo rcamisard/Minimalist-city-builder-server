@@ -1,6 +1,6 @@
 flask
 gunicorn
-numpy
+numpy==1.21.2
 matplotlib.pyplot
 sys
 sqlite3
