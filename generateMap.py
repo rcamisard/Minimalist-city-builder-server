@@ -2,6 +2,7 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt
 import sys
+np.set_printoptions(threshold=sys.maxsize)
 
 CST_PLAIN = 0
 CST_FOREST = 1
