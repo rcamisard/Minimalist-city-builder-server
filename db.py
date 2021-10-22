@@ -17,7 +17,7 @@ def getClassements(dbFile):
     dbConnection = sqlite3.connect(dbFile)
     dbCursor = dbConnection.cursor()
 
-    dbCursor.execute("SELECT USERNAME, POINTS FROM CLASSEMENTS ORDER BY POINTS DESC LIMIT 10")
+    dbCursor.execute("SELECT USERNAME, POINTS FROM CLASSEMENTS ORDER BY POINTS DESC LIMIT 100")
     res = json.dumps(dbCursor.fetchall())
     dbConnection.close()
     # On doit stocker la reponse avant de fermer la connexion à la base
