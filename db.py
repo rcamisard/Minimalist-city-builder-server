@@ -14,7 +14,6 @@ def createTables():
 def getClassements():
     dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
     dbCursor = dbConnection.cursor()
-
     dbCursor.execute("SELECT USERNAME, POINTS FROM CLASSEMENTS ORDER BY POINTS DESC LIMIT 100")
 
     res = json.dumps(dbCursor.fetchall())
@@ -26,6 +25,6 @@ def insertClassement(username, score):
     dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
     dbCursor = dbConnection.cursor()
 
-    dbCursor.execute("INSERT INTO CLASSEMENTS VALUES (?,?, date('now'))", (username, score))
+    dbCursor.execute("INSERT INTO %s VALUES (%%s,%%s)" % "CLASSEMENTS", [username, score])
     dbConnection.commit()
     dbConnection.close()
