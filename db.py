@@ -1,10 +1,10 @@
-import sqlite3
-import json
-from sqlite3 import Error
+import os
+import psycopg2
 
+DATABASE_URL = os.environ['DATABASE_URL']
 
-def createTables(dbFile):
-    dbConnection = sqlite3.connect(dbFile)
+def createTables():
+    dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     dbCursor = dbConnection.cursor()
     dbCursor.execute('''CREATE TABLE IF NOT EXISTS CLASSEMENTS
@@ -12,22 +12,21 @@ def createTables(dbFile):
 
     dbConnection.close()
 
-def getClassements(dbFile):
-
-    dbConnection = sqlite3.connect(dbFile)
+def getClassements():
+    dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
     dbCursor = dbConnection.cursor()
 
     dbCursor.execute("SELECT USERNAME, POINTS FROM CLASSEMENTS ORDER BY POINTS DESC LIMIT 100")
+
     res = json.dumps(dbCursor.fetchall())
     dbConnection.close()
     # On doit stocker la reponse avant de fermer la connexion à la base
     return res
 
 def insertClassement(dbFile, username, score):
-    dbConnection = sqlite3.connect(dbFile)
+    dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
     dbCursor = dbConnection.cursor()
 
     dbCursor.execute("INSERT INTO CLASSEMENTS VALUES (?,?, date('now'))", (username, score))
     dbConnection.commit()
-
     dbConnection.close()

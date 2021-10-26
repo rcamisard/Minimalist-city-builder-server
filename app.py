@@ -11,8 +11,8 @@ CORS(app)
 
 @app.route("/")
 def hello_world():
-   #db.createTables(r"./db/sqlite.db")
-    return db.getClassements(r"./db/sqlite.db")
+    db.createTables()
+    return db.getClassements()
 
 
 @app.route("/generate")
@@ -29,8 +29,7 @@ def insertClassement():
     score = request_data['score']
     print(username)
     print(score)
-    db.insertClassement(r"./db/sqlite.db", username, score)
-    print(db.getClassements(r"./db/sqlite.db"))
+    db.insertClassement(username, score)
     return Response("", status=201, mimetype='application/json')
 
 @app.after_request
