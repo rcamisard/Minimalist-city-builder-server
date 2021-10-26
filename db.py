@@ -7,7 +7,7 @@ def createTables():
     dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     dbCursor = dbConnection.cursor()
-    dbCursor.execute("CREATE TABLE IF NOT EXISTS CLASSEMENTS (USERNAME, POINTS, CREATION_DATE)")
+    dbCursor.execute("CREATE TABLE IF NOT EXISTS CLASSEMENTS (USERNAME text, POINTS int)")
 
     dbConnection.close()
 
