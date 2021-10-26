@@ -7,8 +7,7 @@ def createTables():
     dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     dbCursor = dbConnection.cursor()
-    dbCursor.execute('''CREATE TABLE IF NOT EXISTS CLASSEMENTS
-                   (USERNAME, POINTS, CREATION_DATE)''')
+    dbCursor.execute("CREATE TABLE IF NOT EXISTS CLASSEMENTS (USERNAME, POINTS, CREATION_DATE)")
 
     dbConnection.close()
 
@@ -23,7 +22,7 @@ def getClassements():
     # On doit stocker la reponse avant de fermer la connexion à la base
     return res
 
-def insertClassement(dbFile, username, score):
+def insertClassement(username, score):
     dbConnection = psycopg2.connect(DATABASE_URL, sslmode='require')
     dbCursor = dbConnection.cursor()
 
