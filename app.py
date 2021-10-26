@@ -11,7 +11,7 @@ CORS(app)
 
 @app.route("/")
 def hello_world():
-    db.createTables(r"./db/sqlite.db")
+   #db.createTables(r"./db/sqlite.db")
     return db.getClassements(r"./db/sqlite.db")
 
 
@@ -32,7 +32,6 @@ def insertClassement():
     db.insertClassement(r"./db/sqlite.db", username, score)
     print(db.getClassements(r"./db/sqlite.db"))
     return Response("", status=201, mimetype='application/json')
-
 
 @app.after_request
 def add_header(response):
